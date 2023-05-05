@@ -193,7 +193,7 @@
       display: none;
     }
     .banner_bg {
-      background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) , rgba(0, 0, 0, 0.6)),url("./images/Banner.JPG") !important;
+      background-image:url("./images/Banner.JPG") !important;
       }
     .SectionHeading{
       font-size: 23px !important;
