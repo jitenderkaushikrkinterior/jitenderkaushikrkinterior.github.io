@@ -117,7 +117,7 @@
 
 
   .banner_bg {
-    background-image: url("././images/Banner.JPG") !important;
+    background-image: url("././images/Banner.jpg") !important;
     width: 100%;
     height: 80vh;
     background-repeat: no-repeat;
@@ -193,7 +193,7 @@
       display: none;
     }
     .banner_bg {
-      background-image:url("././images/Banner.JPG") !important;
+      background-image:url("././images/Banner.jpg") !important;
       }
     .SectionHeading{
       font-size: 23px !important;
@@ -218,7 +218,9 @@
       font-weight: 600;
     } 
     .banner_bg {
-      background-image: url("././images/Banner.JPG") !important;
+      background-image: url("././images/Banner.jpg") !important;
+
+      /* background-image: url("../images/banner2.jpg"); */
       width: 100%;
       height: 390px;
       background-repeat: no-repeat;
