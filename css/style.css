@@ -119,11 +119,18 @@
   .banner_bg {
     background-image: url("./images/banner.jpg");
     width: 100%;
-    height: 80vh;
+    height: 500px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
   }
+
+  /* .banner_bg {
+    background-image: url("../images/banner2.jpg");
+    width: 100%;
+    height: 490px;
+    background-repeat: no-repeat;
+    background-position: center;
+  } */
   
   .container,
   .container-fluid,
@@ -192,9 +199,7 @@
     .ab {
       display: none;
     }
-    .banner_bg {
-      background-image:url("./images/banner.jpg");
-      }
+    
     .SectionHeading{
       font-size: 23px !important;
     }
