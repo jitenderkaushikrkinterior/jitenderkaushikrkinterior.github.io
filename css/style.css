@@ -117,20 +117,12 @@
 
 
   .banner_bg {
-    background-image: url("./images/banner.jpg");
+    background-image: linear-gradient(red, yellow);
     width: 100%;
     height: 500px;
     background-repeat: no-repeat;
     background-position: center;
   }
-
-  /* .banner_bg {
-    background-image: url("../images/banner2.jpg");
-    width: 100%;
-    height: 490px;
-    background-repeat: no-repeat;
-    background-position: center;
-  } */
   
   .container,
   .container-fluid,
@@ -223,7 +215,7 @@
       font-weight: 600;
     } 
     .banner_bg {
-      background-image: url("./images/banner.jpg");
+      background-image: linear-gradient(red, yellow);
 
       /* background-image: url("../images/banner2.jpg"); */
       width: 100%;
