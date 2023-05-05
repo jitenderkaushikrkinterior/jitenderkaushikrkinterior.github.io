@@ -117,7 +117,7 @@
 
 
   .banner_bg {
-    background-image: url("./images/Banner.JPG");
+    background-image: url("./images/Banner.JPG") !important;
     width: 100%;
     height: 80vh;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@
       font-weight: 600;
     } 
     .banner_bg {
-      background-image: url("./images/Banner.JPG");
+      background-image: url("./images/Banner.JPG") !important;
       width: 100%;
       height: 390px;
       background-repeat: no-repeat;
